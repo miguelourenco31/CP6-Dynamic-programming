@@ -3,10 +3,10 @@
 # Problema da Mochila 0/1 — Estudo de Caso: Recursão, Memoização e Programação Dinâmica
 
 ## Membros do Grupo
-Miguel Marques Lourenço de Souza - RM555426
-Lorenzzo Vebdruscolo Dias - RM558305
-Gabriel Martins Vanucci - RM556883
-Pedro Henrique Ferronato - RM554757
+- Miguel Marques Lourenço de Souza - RM555426
+- Lorenzzo Vebdruscolo Dias - RM558305
+- Gabriel Martins Vanucci - RM556883
+- Pedro Henrique Ferronato - RM554757
 
 ---
 
